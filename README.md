@@ -1,4 +1,4 @@
-## Breaking Bad Characters App
+## Currency Converter App
 
 In your intergrated terminal run:
 
